@@ -1,6 +1,3 @@
-# Nome: Daniel Fortunato de Castro
-# RA: 2920482021036
-
 # Arquitetura e Organização de Computadores
 # Atividade 1 - Conversor de base numérica
 # Binário, Decimal e Hexadecimal
